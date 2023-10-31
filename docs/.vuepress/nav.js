@@ -6,6 +6,7 @@ module.exports = [
                 text: '基础知识', items: [
                     {text: 'Java的基本数据类型', link: '/pages/2da1db/'},
                     {text: '聊一聊Java中的常用类String', link: '/pages/48a2b9/'},
+                    {text: '聊一聊Java中的异常', link: '/pages/5f3b93/'},
                 ]
             },
             {
