@@ -9,6 +9,7 @@ module.exports = [
                     {text: '聊一聊Java中的异常', link: '/pages/5f3b93/'},
                     {text: '聊一聊Java中的注解', link: '/pages/a65f64/'},
                     {text: '聊一聊Java中的反射机制', link: '/pages/7b757a/'},
+                    {text: '聊一聊Java中的泛型', link: '/pages/067419/'},
                 ]
             },
             {
