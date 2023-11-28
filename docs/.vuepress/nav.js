@@ -16,6 +16,19 @@ module.exports = [
             {
                 text: '集合框架', items: [
                     {text: 'Java集合核心知识总结', link: '/pages/9f1e69/'},
+                    {
+                        text: '源码分析', link: '/pages/28410e/', items: [
+                            {text: 'ArrayList源码分析', link: '/pages/28410e/'},
+                            {text: 'LinkedList源码分析', link: '/pages/69cacd/'},
+                            {text: 'HashMap源码分析', link: '/pages/73e1b1/'},
+                            {text: 'ConcurrentHashMap源码分析', link: '/pages/551b3b/'},
+                            {text: 'CopyOnWriteArrayList 源码分析', link: '/pages/45e846/'},
+                            {text: 'LinkedHashMap 源码分析', link: '/pages/65d207/'},
+                            {text: 'ArrayBlockingQueue 源码分析', link: '/pages/860ef7/'},
+                            {text: 'PriorityQueue 源码分析', link: '/pages/c427ec/'},
+                            {text: 'DelayQueue 源码分析', link: '/pages/e082be/'},
+                        ]
+                    }
                 ]
             },
         ]
