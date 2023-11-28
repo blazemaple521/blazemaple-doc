@@ -16,6 +16,7 @@ module.exports = [
             {
                 text: '集合框架', items: [
                     {text: 'Java集合核心知识总结', link: '/pages/9f1e69/'},
+                    {text: 'HashMap的7种遍历方式与性能分析', link: '/pages/2081b1/'},
                     {
                         text: '源码分析', link: '/pages/28410e/', items: [
                             {text: 'ArrayList源码分析', link: '/pages/28410e/'},
