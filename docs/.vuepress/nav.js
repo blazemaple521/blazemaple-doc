@@ -44,6 +44,8 @@ module.exports = [
             {
                 text: 'IO流', items: [
                     {text: 'Java基础IO总结', link: '/pages/9bff74/'},
+                    {text: 'Java IO中的设计模式', link: '/pages/1a2d68/'},
+                    {text: 'Java IO模型', link: '/pages/726f51/'},
                 ]
             },
             {
