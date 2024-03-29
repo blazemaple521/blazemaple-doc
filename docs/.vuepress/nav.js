@@ -50,12 +50,12 @@ module.exports = [
             },
             {
                 text: '并发编程', items: [
-                    {text: '并发编程基础总结', link: ' /pages/faa5b5/'},
+                    {text: '并发编程基础总结', link: '/pages/faa5b5/'},
                 ]
             },
             {
                 text: 'JVM', items: [
-                    {text: 'JVM基础总结', link: ' /pages/1f79d5/'},
+                    {text: 'JVM基础总结', link: '/pages/1f79d5/'},
                 ]
             },
         ]
