@@ -66,6 +66,7 @@ module.exports = [
             {
                 text: 'MySQL', items: [
                     {text: 'MySQL核心知识小结', link: '/pages/5bdae6/'},
+                    {text: 'MySQL 45讲', link: '/pages/d712cc/'},
                 ]
             },
             {
