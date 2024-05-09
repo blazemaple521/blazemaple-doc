@@ -48,7 +48,7 @@ function ABDetected() {
   if (wwadsEl[0] && !wwadsContentEl) {
     wwadsEl[0].innerHTML = h;
   }
-};
+}
 
 //check document ready
 function docReady(t) {
