@@ -77,10 +77,11 @@ module.exports = [
         ]
     },
     {
-        text: '常用框架', link: '/pages/daef01/', items: [
+        text: '常用框架', link: '/pages/aade10/', items: [
             {
                 text: 'Spring', items: [
-                    {text: 'Spring重要源码解析', link: '/pages/daef01/'},
+                    // {text: 'Spring重要源码解析', link: '/pages/daef01/'},
+                    {text: 'Spring6源码', link: '/pages/aade10/'},
                 ]
             }
         ]
