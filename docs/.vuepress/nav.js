@@ -5,12 +5,12 @@ module.exports = [
             {
                 text: '基础知识', items: [
                     {text: 'Java的基本数据类型', link: '/pages/2da1db/'},
-                    {text: '聊一聊Java中的常用类String', link: '/pages/48a2b9/'},
-                    {text: '聊一聊Java中的异常', link: '/pages/5f3b93/'},
-                    {text: '聊一聊Java中的注解', link: '/pages/a65f64/'},
-                    {text: '聊一聊Java中的反射机制', link: '/pages/7b757a/'},
-                    {text: '聊一聊Java中的泛型', link: '/pages/067419/'},
-                    {text: '聊一聊Java为什么是值传递', link: '/pages/e85c09/'},
+                    {text: 'Java中的常用类String', link: '/pages/48a2b9/'},
+                    {text: 'Java中的异常', link: '/pages/5f3b93/'},
+                    {text: 'Java中的注解', link: '/pages/a65f64/'},
+                    {text: 'Java中的反射机制', link: '/pages/7b757a/'},
+                    {text: 'Java中的泛型', link: '/pages/067419/'},
+                    {text: 'Java为什么是值传递', link: '/pages/e85c09/'},
                 ]
             },
             {
