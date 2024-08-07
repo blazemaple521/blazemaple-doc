@@ -97,12 +97,12 @@ module.exports = {
                     //     title: '在Vue API中搜索',
                     //     frontUrl: 'https://cn.vuejs.org/v2/api/#',
                     // },
-                    // {
-                    //     title: '在Bing中搜索',
-                    //     frontUrl: 'https://cn.bing.com/search?q=',
-                    // },
                     {
-                        title: '通过百度搜索本站的',
+                        title: '在Bing中搜索',
+                        frontUrl: 'https://cn.bing.com/search?q=',
+                    },
+                    {
+                        title: '在百度中搜索',
                         frontUrl: `https://www.baidu.com/s?wd=`,
                     },
                 ],
