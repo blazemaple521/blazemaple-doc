@@ -86,5 +86,39 @@ module.exports = [
             }
         ]
     },
+    {
+        text: '工具', link: '/pages/0f4b19/', items: [
+            {
+                text: '开发工具', items: [
+                    {text: 'Git详解', link: '/pages/0f4b19/'},
+                    {text: 'Maven详解', link: '/pages/a19eeb/'},
+                    {text: 'Docker详解', link: '/pages/047fae/'},
+                    {text: 'Linux常用命令', link: '/pages/fdb56c//'},
+                ]
+            },
+            {
+                text: '在线工具', items: [
+                    {text: 'json', link: 'https://www.json.cn/'},
+                    {text: 'base64编解码', link: 'https://c.runoob.com/front-end/693/'},
+                    {text: '时间戳转换', link: 'https://www.beijing-time.org/shijianchuo/'},
+                    {text: 'unicode转换', link: 'https://www.fulimama.com/unicode/'},
+                    {text: '正则表达式', link: 'https://www.sojson.com/regex/'},
+                    {text: 'md5加密', link: 'https://www.toolkk.com/tools/md5-encrypt'},
+                    {text: '二维码', link: 'https://cli.im/'},
+                    {text: '文本比对', link: 'https://c.runoob.com/front-end/8006/'},
+
+                ]
+            }
+        ]
+    },
+    {
+        text: '资源分享', link: '/pages/d7085e/', items: [
+            {
+                text: '学习资源', items: [
+                    {text: '计算机经典电子书PDF', link: '/pages/d7085e/'},
+                ]
+            }
+        ]
+    },
 
 ]
