@@ -116,6 +116,7 @@ module.exports = [
             {
                 text: '学习资源', items: [
                     {text: '计算机经典电子书PDF', link: '/pages/d7085e/'},
+                    {text: 'hot120', link: '/pages/9197b6/'},
                 ]
             }
         ]
