@@ -93,7 +93,7 @@ module.exports = [
                     {text: 'Git详解', link: '/pages/0f4b19/'},
                     {text: 'Maven详解', link: '/pages/a19eeb/'},
                     {text: 'Docker详解', link: '/pages/047fae/'},
-                    {text: 'Linux常用命令', link: '/pages/fdb56c//'},
+                    {text: 'Linux常用命令', link: '/pages/fdb56c/'},
                 ]
             },
             {
