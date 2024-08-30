@@ -78,12 +78,8 @@ module.exports = [
     },
     {
         text: '常用框架', link: '/pages/aade10/', items: [
-            {
-                text: 'Spring', items: [
-                    {text: 'Spring重要源码解析', link: '/pages/daef01/'},
-                    {text: 'Spring6源码', link: '/pages/aade10/'},
-                ]
-            }
+            {text: 'Spring', link: '/pages/daef01/'},
+            {text: 'SpringCloud Alibaba', link: '/pages/c9001d/'},
         ]
     },
     {
